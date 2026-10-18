@@ -1,0 +1,13 @@
+experiment:
+  name: "sleep-smartphone-research"
+  version: "1.0.0"
+
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  sample_data: "data/sample/"
+
+parameters:
+  gaming_threshold_min: 45
+  social_threshold_min: 45
+  sleep_onset_latency_max: 120
